@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use the Seerie dataset, please cite it as below."
+title: "Seerie Dataset: Scam-Safety Conversations for India (v410)"
+type: dataset
+authors:
+  - family-names: Tiwari
+    given-names: Jay
+    affiliation: Seerror Technologies
+version: "v410"
+date-released: 2026-11-24
+license: CC-BY-4.0
+url: "https://huggingface.co/datasets/seerror-technologies/seerie-dataset"
+repository-code: "https://github.com/Seerror-Technologies/seerie-dataset"
+keywords:
+  - fraud prevention
+  - scam detection
+  - cybersecurity
+  - India
+  - Hindi
+  - Hinglish
+  - conversational dataset
+preferred-citation:
+  type: report
+  title: "Cleaner Data, the Same Error Rate: A Third Answer-by-Answer Evaluation of Seerie, an Offline Scam-Prevention Assistant for India, with a Hand-Written Test in English, Hinglish and Hindi"
+  authors:
+    - family-names: Tiwari
+      given-names: Jay
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.23731473"
